@@ -12,6 +12,7 @@ Linux:
 Windows:
  pip install colorama AND pip install ipy AND pip install termcolor AND pip install pyfiglet
 
+THEN RUN USING:
 python main.py
 
 Enjoy!
