@@ -1,0 +1,7 @@
+# UltraDDOS
+
+RUN ON ANY OS USING TERMINAL / POWERSHELL AND TYPING
+
+"python main.py"
+
+Enjoy!
